@@ -41,8 +41,10 @@ Hierna hebben we geleerd dat je bij de metadata van een job kunt specifieren op 
 
 Na een aantal opdrachten rond jobs hebben we de tool `grafana` bekeken. Deze wordt gebruikt voor dashboards met allerlei informatie over de Nomad installatie en jobs.
 
-Dit seminarie was zeer interesant om een andere container orchestration tool te zien dan we in de opleiding doen. Het kan zeker nooit kwaad om je bewust te zijn van andere tools of opties dan degene die je gebruikt en bekend mee bent. Het was heel fijn dat dit een hands on seminarie was omdat dit de beste manier is om de mogelijkheden van een tool te leren en zien.  
 
+
+## reflectieverslag
+Dit seminarie was zeer interesant om een andere container orchestration tool te zien dan we in de opleiding doen. Het kan zeker nooit kwaad om je bewust te zijn van andere tools of opties dan degene die je gebruikt en bekend mee bent. Het was heel fijn dat dit een hands on seminarie was omdat dit de beste manier is om de mogelijkheden van een tool te leren en zien.  
 
 # Cisco: Meraki (Cloud) + converged (Cloud + on prem)
 Hier kregen we eerst wat uitleg over het Meraki platform van cisco waar we daarna mee aan de slag mochten. We kregen een aantal oefeingen met de API en met de website om zo verschillende aspecten in te stellen en op te vragen.
