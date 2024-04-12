@@ -33,15 +33,14 @@ Clients daarintegen zijn verantwoordelijk voor het uitvoeren van de jobs.
 Een job binnen Nomad wordt gezien als een container die je opstart.
 
 We hebben hierna een aantal opdrachten gekregen om op een Nomad instance uit te voeren.  
-Dit begon met het aantal instances van een webserver te verhogen van 1 naar 3.
+Dit begon met het aantal instances van een webserver te verhogen van 1 naar 3. Deze job wordt dan op meerdere clients, indien mogenlijk, uitgevoer en kan zo meer traffic aan en blijft ook werken als die client uitvalt.
 
 <img src="./src/Nomad_instances.png" alt="image succesvol verhogen instances van een webserver" width="1000"/>
 
 Hierna hebben we geleerd dat je bij de metadata van een job kunt specifieren op welke client deze moet runnen. Anders zal deze bij elke boot een andere toegewezen krijgen.
+Dit kan soms handig zijn als een specifieke job op een client moet runnen die toegang heeft tot een bepaald netwerk of resources. Denk aan zwaardere calculaties die best op een GPU plaatsvinden. Of een host die is aangesloten op een antenne die je gebruikt om vluchten bij te houden.
 
 Na een aantal opdrachten rond jobs hebben we de tool `grafana` bekeken. Deze wordt gebruikt voor dashboards met allerlei informatie over de Nomad installatie en jobs.
-
-
 
 ## reflectieverslag
 Dit seminarie was zeer interesant om een andere container orchestration tool te zien dan we in de opleiding doen. Het kan zeker nooit kwaad om je bewust te zijn van andere tools of opties dan degene die je gebruikt en bekend mee bent. Het was heel fijn dat dit een hands on seminarie was omdat dit de beste manier is om de mogelijkheden van een tool te leren en zien.  
