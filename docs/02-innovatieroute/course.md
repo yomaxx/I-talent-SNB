@@ -4,14 +4,14 @@
 Voor de opleiding heb ik 2x meegedaan aan de CSCNE (Cyber Security Challenge Belgium).  
 Ik ga het hier vooral hebben over mijn 2de poging.
 
-Voor deze hackathon die van 08/03-10:00 tot 09/03-18:00 liepen heb ik samengewerkt met 3 mensen van de opleiding.  
+Voor deze hackathon die van 08/03-10:00 tot 09/03-18:00 liep heb ik samengewerkt met 3 teamgenoten van de opleidingen SNB en AON.  
 uiteindelijk zijn we geeindigd op plaats 72 van de 211 die actief hebben deelgenomen.  
 We hebben geen taakverdeling gemaakt, maar gingen gewoon samen of apart aan een challenge werken en vroegen anderen om hulp of een andere blik.
 
-![foto eindstand](/docs/02-innovatieroute/src/eindstand.png)
+<img src="./src/eindstand.png" alt="foto eindstand" width="1000">
 
 Om hier te geraken hebben we opdrachten van allemaal verschillende diciplines moeten oplossen.  
-Oefeningen over DNS, forensics, programming en nog wat misc zat er allemaal bij. Deze waren dan onderverdeeld in een moeilijkheidsgraad. We hebben geprobeerd om bij de meeste toch zeker 1 van de moeilijkere oefeningen te halen.
+Oefeningen over DNS, forensics, programming en nog wat misc zaten er allemaal bij. Deze waren dan onderverdeeld in een moeilijkheidsgraad. We hebben geprobeerd om bij de meeste toch zeker 1 van de moeilijkere oefeningen te halen.
 
 <img src="./src/opdrachten_1.png" alt="foto opdrachten 1" width="750">
 <img src="./src/opdrachten_2.png" alt="foto opdrachten 2" width="750">
@@ -71,7 +71,7 @@ De volgende matrix gaf bijvoorbeeld volgende oplossing:
 |  8 |  9 |  2 | 16 |
 +----+----+----+----+
 
-rrrdblllubrrdddbluuubldbrrubdblbdbrubllddbrrruubllddblubrrblbrdbubdbrubllldbrrblb
+oplossing: rrrdblllubrrdddbluuubldbrrubdblbdbrubllddbrrruubllddblubrrblbrdbubdbrubllldbrrblb
 ```
 
 De puzzle was elke keer anders en varieerde van een 4x4 tot een 9x9.
