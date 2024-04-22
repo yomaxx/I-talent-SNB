@@ -28,7 +28,7 @@ Door middel van een VM die kwam met een aantal tools voor forensics toe doen. Hi
 **Locatie**: Hogeschool PXL
 
 ## inhoud
-Dit seminarie stond in teken van het de verschillende manieren om een applicatie op te zetten en de infrastructuur te beheren. Van het manueel opzetten van een docker iamage tot het automatisch deployen van een multi-cloud setup. Zo konden we de lessen automatisatie eens in de praktijk zien.
+Dit seminarie stond in teken van het de verschillende manieren om een applicatie op te zetten en de infrastructuur te beheren. Van het manueel opzetten van een docker image tot het automatisch deployen van een multi-cloud setup. Zo konden we de lessen automatisatie eens in de praktijk zien.
 
 # Meraki (Cloud) + converged (Cloud + on prem)
 <img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/01-Seminaries/src/logo_cisco.png" alt="logo cisco" width="500"/>
@@ -38,7 +38,7 @@ Dit seminarie stond in teken van het de verschillende manieren om een applicatie
 **Locatie**: Hogeschool PXL
 
 ## inhoud
-Hier kregen we eerst wat uitleg over het Meraki platform van cisco waar we daarna mee aan de slag mochten. We kregen een aantal oefeingen met de API en met de website om zo verschillende aspecten in te stellen en op te vragen.
+Hier kregen we eerst wat uitleg over het Meraki platform van cisco waar we daarna mee aan de slag mochten. We kregen een aantal oefeningen met de API en met de website om zo verschillende aspecten in te stellen en op te vragen.
 
 
 # Cyber security operations in the real world
