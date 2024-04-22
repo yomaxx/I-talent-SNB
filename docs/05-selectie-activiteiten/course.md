@@ -1,7 +1,7 @@
 # studentenvereniging
-**Datum**: 09/2021 - huidig
-**Domein**: Persoonlijke ontwikkeling
-**Extra informatie**:
+**Datum**: 09/2021 - huidig  
+**Domein**: Persoonlijke ontwikkeling  
+**Extra informatie**:  
 - Zelf aangebracht.
 
 ## inhoud
@@ -37,10 +37,10 @@ Ik heb deze activiteit gekozen omdat dit een belangrijk deel in mijn leven is ge
 # Seminarie: Nomad
 <img src="./src/logo_inuits.svg" alt="logo intuis" width="500"/>
 
-**Gegeven door**: Inuits
-**Datum**: 09/05/2023
-**Locatie**: Hogeschool PXL
-**Extra informatie**:
+**Gegeven door**: Inuits  
+**Datum**: 09/05/2023  
+**Locatie**: Hogeschool PXL  
+**Extra informatie**:  
 - github link: https://github.com/visibilityspots/workshops-infrastructure
 - page link: https://visibilityspots.org/
 
@@ -122,6 +122,10 @@ De seminarie was een waardevolle aanvulling op onze opleiding en heeft mij bewus
 
 
 # Hackathons
+**Datum**: 08/03/2023 - 09/03/2023  
+**Locatie**: Online  
+
+## inhoud
 Voor de opleiding heb ik 2x meegedaan aan de CSCNE (Cyber Security Challenge Belgium).  
 Ik ga het hier vooral hebben over mijn 2de poging.
 
@@ -174,7 +178,7 @@ Een mogelijke puzzle zag er zo uit:
 +---+---+---+
 ```
 En deze moest dan weer op volgorde gezet worden, van 1-9, door commando's mee te geven. Je gaf een string door `rdbulbdbwrb` om bijvoorbeeld de 1 en 2 al goed te zetten.
-uiteindelijk kon je deze moves doen:
+Uiteindelijk kon je deze moves doen:
 ```
 'l': 'left',
 'r': 'right',
@@ -211,7 +215,7 @@ Na verder onderzoeken bleek de vic een hint naar het algoritme dat gebruikt was 
 
 De hackathon is een goede manier om je `critical` en `out of the box` denken aan het werk te zetten. Vaak is niks wat het lijkt en moet je diepgaan om de flags te vinden. Het is heel fijn dat er zo een variatie is aan opdrachten omdat er zo voor iedereen wel iets is. Het waren fijne en stresvolle uren maar zou dit zo weer doen.
 
-ik heb vooral geleerd om iets op te pakken en even vast te bijten. Ook zag ik de meerwaarde van soms even iemand door je denkwijze te laten redeneren omdat je soms iets duidelijks mist of soms heeft iemand een ander beeld. Maar soms is het goed om een opdracht even neer te leggen en hier later met een 'frissere' blik opnieuw naar te kijken. Ik had bijvoorbeeld een duidelijke edge case niet voorzien in mijn code en kon dit eers niet vinden. Achteraf toen ik terugkwam was dit allemaal opgelost binnen 5 minuten.
+Ik heb vooral geleerd om iets op te pakken en even vast te bijten. Ook zag ik de meerwaarde van soms even iemand door je denkwijze te laten redeneren omdat je soms iets duidelijks mist of soms heeft iemand een ander beeld. Maar soms is het goed om een opdracht even neer te leggen en hier later met een 'frissere' blik opnieuw naar te kijken. Ik had bijvoorbeeld een duidelijke edge case niet voorzien in mijn code en kon dit eers niet vinden. Achteraf toen ik terugkwam was dit allemaal opgelost binnen 5 minuten.
 
 Dit was allemaal heel wat anders dan wat we in de lessen security gezien hebben. Maar toch kwam wel wat kennis van pas, zo wisten we al van een aantal tools voor steganography en wat basis voor het bekijken van de websites. Deze konden we dan eens in de praktijk uitproberen en oefenen. Ik heb hier veel geleerd over kritisch denken en niet te snel opgeven om iets anders te proberen. Vaak denk je 'het lukt niet, dus probeer een andere'. Maar dat kun je natuurlijk niet blijven doen. Ook helpen de programmeer lessen, voornamelijk IT-essentials, en linux essenttials en advanced hierbij. Wat scripting en kennis van basic CLI is wel een must hiervoor.
 

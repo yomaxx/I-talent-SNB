@@ -1,7 +1,7 @@
 # projectweek
-**Datum**: 13/02/2023 - 17/02/2023
-**Locatie**: Hogeschool PXL
-**Duur**: 1 week
+**Datum**: 13/02/2023 - 17/02/2023  
+**Locatie**: Hogeschool PXL  
+**Duur**: 1 week  
 
 ## inhoud
 De projectweek was een week aan verschillende activiteiten en seminaries om jezelf en je team genoten  beter te leren kennen. Dit hielp dan om de samenwerking te verbeteren.
@@ -10,31 +10,31 @@ De projectweek was een week aan verschillende activiteiten en seminaries om jeze
 Voor de opleiding hebben we deelgenomen aan 3 verschillende POP-sessies. Deze waren bedoeld om jezelf en je groep beter te leren kennen om zo de samenwerking beter te laten verlopen.
 
 ## POPping
-**Datum**: 28/02/2023
-**Locatie**: Hogeschool PXL
+**Datum**: 28/02/2023  
+**Locatie**: Hogeschool PXL  
 
 ### inhoud
 Verschillende sterke en zwakke punten van je collega's leren kennen. Ook leren omgaan met geven en ontvangen van feedback. Hierna hebben we een persoonlijk ontwikkelingsplan uitgewerkt.
 
 ## Brein aan het werk! Niet storen!
-**Datum**: 28/02/2023
-**Locatie**: Hogeschool PXL
+**Datum**: 28/02/2023  
+**Locatie**: Hogeschool PXL  
 
 ### inhoud
 Tijdens deze sessie werd er onderzocht hoe afhankelijk we waren van onze smartphone met behulp van een experiment. Hier hebben we dan interessante gegevens over ons smartphone gebruik uit kunnen halen.
 
 ## My team and I
-**Datum**: 11/10/2023
-**Locatie**: Hogeschool PXL
+**Datum**: 11/10/2023  
+**Locatie**: Hogeschool PXL  
 
 ### inhoud
 Dit was een sessie over hoe de dynamiek in een team alles kan beïnvloeden. Hoe je het beste met problemen omgaat en met elkaar communiceert. We kregen een aantal oefeningen om te kijken wie wat het belangrijkste vond binnen een het team.
 
 # open source cafe
-**Gegeven door**: Inuits
-**Datum**: 02/03/2023 & 13/03/2024
-**Locatie**: Corda 1 - verdieping 1
-**Extra informatie**:
+**Gegeven door**: Inuits  
+**Datum**: 02/03/2023 & 13/03/2024  
+**Locatie**: Corda 1 - verdieping 1  
+**Extra informatie**:  
 - zelf aangebracht
 
 ## inhoud

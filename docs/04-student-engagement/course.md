@@ -1,6 +1,6 @@
 # studenten commisie
-**Datum**: 09/2021 - huidig
-**Extra informatie**:
+**Datum**: 09/2021 - huidig  
+**Extra informatie**:  
 - Zelf aangebracht.
 
 ## inhoud
@@ -9,10 +9,10 @@ Hier heb ik geholpen met feedback van de klassen door te geven om zo de opleidin
 Jaarlijks waren er 2 meetings waar de probleemvakken werden overlopen en eventuele feedback van de OLOD bevragingen en feedback daarbuiten werden overlopen. Dit allemaal op het standpunt van de studenten over de opleiding duidelijk te maken en zo de opleiding  te verbeteren.
 
 # infodag
-**Datum**: 22/11/2023
-**Locatie**: Hogeschool PXL
-**Duur**: 3 uur
-**Extra informatie**:
+**Datum**: 22/11/2023  
+**Locatie**: Hogeschool PXL  
+**Duur**: 3 uur  
+**Extra informatie**:  
 - Zelf aangebracht.
 
 ## inhoud

@@ -1,73 +1,73 @@
 # Quality Engineering
-<img src="./src/Capgemini_Logo.png" alt="logo capgemini" width="500"/>
+<img src="./src/Capgemini_Logo.png" alt="logo capgemini" width="500"/>  
 
-**Gegeven door**: Capgemini
-**Datum**: 7/03/2023
-**Locatie**: Hogeschool PXL
+**Gegeven door**: Capgemini  
+**Datum**: 7/03/2023  
+**Locatie**: Hogeschool PXL  
 ## Inhoud
 Het seminarie van Capgemini ging over quality engineering binnen de SDLC (Software Development Lifecycle). De inhoud van de seminarie was gefocust op waarom quality engineering noodzakelijk is, hoe het mogelijk moet zijn om slechte quality deliverance te vermijden.
 
 
 # Forensics
-<img src="./src/Logo-pwc.png" alt="logo PWC" width="500"/>
+<img src="./src/Logo-pwc.png" alt="logo PWC" width="500"/>  
 
-**Gegeven door**: PWC
-**Datum**: 21/03/2023
-**Locatie**: Hogeschool PXL
+**Gegeven door**: PWC  
+**Datum**: 21/03/2023  
+**Locatie**: Hogeschool PXL  
 
 ## Inhoud
 Door middel van een VM die kwam met een aantal tools voor forensics toe doen. Hier zagen we bijvoorbeeld een programma "jiggly mouse" wat verdacht was.
 
 
 # Multi-cloud
-<img src="./src/gluo_logo.png" alt="logo gluo" width="500"/>
+<img src="./src/gluo_logo.png" alt="logo gluo" width="500"/>  
 
-**Gegeven door**: Gluo
-**Datum**: 18/04/2023
-**Locatie**: Hogeschool PXL
+**Gegeven door**: Gluo  
+**Datum**: 18/04/2023  
+**Locatie**: Hogeschool PXL  
 
 ## inhoud
 Dit seminarie stond in teken van het de verschillende manieren om een applicatie op te zetten en de infrastructuur te beheren. Van het manueel opzetten van een docker iamage tot het automatisch deployen van een multi-cloud setup. Zo konden we de lessen automatisatie eens in de praktijk zien.
 
 # Meraki (Cloud) + converged (Cloud + on prem)
-<img src="./src/logo_cisco.png" alt="logo cisco" width="500"/>
+<img src="./src/logo_cisco.png" alt="logo cisco" width="500"/>  
 
-**Gegeven door**: Cisco
-**Datum**: 08/11/2023
-**Locatie**: Hogeschool PXL
+**Gegeven door**: Cisco  
+**Datum**: 08/11/2023  
+**Locatie**: Hogeschool PXL  
 
 ## inhoud
 Hier kregen we eerst wat uitleg over het Meraki platform van cisco waar we daarna mee aan de slag mochten. We kregen een aantal oefeingen met de API en met de website om zo verschillende aspecten in te stellen en op te vragen.
 
 
 # Cyber security operations in the real world
-<img src="./src/logo_secwise.png" alt="logo secwise" width="500"/>
+<img src="./src/logo_secwise.png" alt="logo secwise" width="500"/>  
 
-**Gegeven door**: Secwise
-**Datum**: 06/12/2023
-**Locatie**: Hogeschool PXL
+**Gegeven door**: Secwise  
+**Datum**: 06/12/2023  
+**Locatie**: Hogeschool PXL  
 
 ## inhoud
 Hier hebben we wat `blue team` uitleg en een blik in de wereld van incident response gekregen. We kregen te zien hoe een security incident onderzocht werd en hoe dit in de toekomst vermeden kon worden.
 
 
 # SAP: AI en process automation
-<img src="./src/logo_thevaluechain.png" alt="logo the Value Chain" width="500"/>
+<img src="./src/logo_thevaluechain.png" alt="logo the Value Chain" width="500"/>  
 
-**Gegeven door**: TheValueChain
-**Datum**: 13/12/2023
-**Locatie**: Hogeschool PXL
+**Gegeven door**: TheValueChain  
+**Datum**: 13/12/2023  
+**Locatie**: Hogeschool PXL   
 
 ## inhoud
 Seminarie over SAP en process automation. SAP is een resource planning softwarepakket wat bedrijven helpt op efficiënter te werken. Hier kregen we uitleg over en enkele voorbeelden van oplossingen die ze gevonden hebben voor klanten.
 
 
 # Digital forensics
-<img src="./src/logo_politie.jpg" alt="logo the Value Chain" width="500"/>
+<img src="./src/logo_politie.jpg" alt="logo the Value Chain" width="500"/>  
 
-**Gegeven door**: Politie
-**Datum**: 10/01/2024
-**Locatie**: Hogeschool PXL
+**Gegeven door**: Politie  
+**Datum**: 10/01/2024  
+**Locatie**: Hogeschool PXL  
 
 ## inhoud
 In deze seminarie hebben we geleerd hoe de politie te werk gaat bij een digitale analyse van een systeem.  
