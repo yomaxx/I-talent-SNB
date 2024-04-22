@@ -1,4 +1,4 @@
-### insert image
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/00-algemeen/src/image_school.jpg" alt="foto students learning" width="1000"/><br>
 
 # Voorstelling  
 ## Wie ben ik?  

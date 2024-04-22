@@ -16,7 +16,7 @@ Jaarlijks waren er 2 meetings waar de probleemvakken werden overlopen en eventue
 - Zelf aangebracht.
 
 ## inhoud
-<img src="./src/foto_infodag.png" alt="foto inschrijving infodag" width="500"/>
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/04-student-engagement/src/foto_infodag.png" alt="foto inschrijving infodag" width="500"/>
 
 Zoals bij persoonlijke ontwikkeling al vermeld was ik leidend lid bij studentenvereniging Hexion.  
 Wat hier ook bijzat was helpen bij de infodagen van PXL. In het begin van het jaar proberen we leden te werven, maar zijn we ook een makkelijk aanspreekpunt voor nieuwe studenten die de weg nog aan het zoeken zijn naar hun lokaal of de nodige diensten van PXL.  

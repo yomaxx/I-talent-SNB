@@ -38,7 +38,7 @@ Dit was een sessie over hoe de dynamiek in een team alles kan beïnvloeden. Hoe 
 - zelf aangebracht
 
 ## inhoud
-<img src="./src/open_source_cafe_1.png" alt="foto inschrijving open source cafe" width="500"/><br>
-<img src="./src/open_source_cafe_2.png" alt="foto inschrijving open source cafe" width="500"/>
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/03-persoonlijke-ontwikkeling/src/open_source_cafe_1.png" alt="foto inschrijving open source cafe" width="500"/><br>
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/03-persoonlijke-ontwikkeling/src/open_source_cafe_2.png" alt="foto inschrijving open source cafe" width="500"/>
 
 2x naar het open source café van Inuits gegaan. Hier lieten ze zien hoe en wat ze in hun eigen homelab hadden draaien. Verder kregen we uitleg over AI en wat Inuits hier allemaal mee doet.

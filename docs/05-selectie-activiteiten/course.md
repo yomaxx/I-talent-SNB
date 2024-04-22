@@ -35,7 +35,7 @@ Ik heb deze activiteit gekozen omdat dit een belangrijk deel in mijn leven is ge
 
 
 # Seminarie: Nomad
-<img src="./src/logo_inuits.svg" alt="logo intuis" width="500"/>
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/05-selectie-activiteiten/src/logo_inuits.svg" alt="logo intuis" width="500"/>
 
 **Gegeven door**: Inuits  
 **Datum**: 09/05/2023  
@@ -91,7 +91,7 @@ Met deze commands kun je je hosts bekijken en welke jobs op je cluster draaien. 
 We hebben hierna een aantal opdrachten gekregen om op een Nomad instance uit te voeren. Iedereen moest per 2 op een eigen nomad instance werken die tijdenlijk werd opgezet voor deze seminarie.
 Dit begon met het aantal instances van een webserver te verhogen van 1 naar 3. Deze job wordt dan op meerdere clients, indien mogenlijk, uitgevoer en kan zo meer traffic aan en blijft ook werken als die client uitvalt. Dit is nuttig voor jobs die veel bezocht worden of niet mogen uitvallen.
 
-<img src="./src/Nomad_instances.png" alt="image succesvol verhogen instances van een webserver" width="1000"/>
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/05-selectie-activiteiten/src/Nomad_instances.png" alt="image succesvol verhogen instances van een webserver" width="1000"/>
 
 Hierna hebben we geleerd dat je bij de metadata van een job kunt specifiëren op welke client deze moet runnen. Anders zal deze bij elke boot een andere toegewezen krijgen.
 Dit kan soms handig zijn als een specifieke job op een client moet runnen die toegang heeft tot een bepaald netwerk of resources. Denk aan zwaardere calculaties die best op een GPU plaatsvinden. Of een host die is aangesloten op een antenne die je gebruikt om vluchten bij te houden.
@@ -111,7 +111,7 @@ Dit zijn allemaal tools om het beheer en gebruik van je cluster makkelijker te m
 met prometheus en grafana kun je de cluster monitoren.
 
 Renovate wordt gebruikt om een git repo als "single source of truth" te gebruiken. Met andere woorden zorgt dit ervoor dat na elke push naar een repo wat daar opstaat automatisch op de cluster gezet wordt. En tenslotte Wander is een terminal interface om je nomad instance te beheren.
-<img src="./src/wander.gif" alt="gif wander" width="750"/>
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/05-selectie-activiteiten/src/wander.gif" alt="gif wander" width="750"/>
 
 ## reflectieverslag
 Het seminarie over Nomad was een verfrissende en leerzame ervaring. Nomad bood een nieuw perspectief op container orchestration dan de tools die we in de opleiding zien. Het is altijd nuttig om kennis te maken met alternatieve tools en opties, omdat dit ons helpt om een breder inzicht te krijgen in de technologieën die beschikbaar zijn in de markt.
@@ -133,14 +133,14 @@ Voor deze hackathon die van 08/03-10:00 tot 09/03-18:00 liep heb ik samengewerkt
 Uiteindelijk zijn we geeindigd op plaats 72 van de 211 die actief hebben deelgenomen.  
 We hebben geen taakverdeling gemaakt, maar gingen gewoon samen of apart aan een challenge werken en vroegen anderen om hulp of een andere blik.
 
-<img src="./src/eindstand.png" alt="foto eindstand" width="1000">
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/05-selectie-activiteiten/src/eindstand.png" alt="foto eindstand" width="1000">
 
 Om hier te geraken hebben we opdrachten van allemaal verschillende diciplines moeten oplossen.  
 Oefeningen over DNS, forensics, programming en nog wat misc zaten er allemaal bij. Deze waren dan onderverdeeld in een moeilijkheidsgraad. We hebben geprobeerd om bij de meeste toch zeker 1 van de moeilijkere oefeningen te halen.
 
-<img src="./src/opdrachten_1.png" alt="foto opdrachten 1" width="750">
-<img src="./src/opdrachten_2.png" alt="foto opdrachten 2" width="750">
-<img src="./src/opdrachten_3.png" alt="foto opdrachten 3" width="750">
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/05-selectie-activiteiten/src/opdrachten_1.png" alt="foto opdrachten 1" width="750">
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/05-selectie-activiteiten/src/opdrachten_2.png" alt="foto opdrachten 2" width="750">
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/05-selectie-activiteiten/src/opdrachten_3.png" alt="foto opdrachten 3" width="750">
 
 De leukste hieruit waren in mijn ogen de DNS, programming en van Misc de Trinity opdrachten.
 
@@ -152,19 +152,19 @@ Hier moest je dus op een specifieke timing om de records vragen. Dit werkte uite
 Uiteindelijk kon je dus de flag krijgen door zoveel mogelijk  DNS providers te querien en te kijken of een de juiste records nog had.
 
 Bij de 2de opdracht moesten we een flag halen via een specifieke DNS providers voor een website. Dit is uiteindelijk gelukt met het dig commando.
-<img src="./src/DNS_challenge.png" alt="foto DNS challenge oplossing" width="750">
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/05-selectie-activiteiten/src/DNS_challenge.png" alt="foto DNS challenge oplossing" width="750">
 
 ## Programming challenges
 
 Hier heb ik 3 challenges van geprobeerd en 2 van opgelost. De NEO challenge was net niet gelost maar was dichtbij toen ik mijn oplossing vergeleek met de write ups.
 
-<img src="./src/neo_test.png" alt="foto werken aan neo oefening" width="750">
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/05-selectie-activiteiten/src/neo_test.png" alt="foto werken aan neo oefening" width="750">
 
 De eerste opdracht kreeg je een zip met 445 foto's van QR codes. Als je deze scande kreeg je altijd 2 characters terug, eg `48`, `65`, ...
 Uiteindelijk deze met een tool achter elkaar gezet in een gif en deze dan weer frame per frame ingelezen. Zo kwam je een lange string terug met `HEX` waardes.
 Deze kun je met online tools zoals `cyberchef` terug in ascii omzetten.
 
-<img src="./src/oplossing_movie.png" alt="omzetten hex naar ascii cyberchef" width="750">
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/05-selectie-activiteiten/src/oplossing_movie.png" alt="omzetten hex naar ascii cyberchef" width="750">
 
 De 2de programming challenge moest je een verbinding maken met een server en kreeg je een matrix terug die je dan op volgorde moest terugzetten.
 Een mogelijke puzzle zag er zo uit:
@@ -207,7 +207,7 @@ De puzzle was elke keer anders en varieerde van een 4x4 tot een 9x9.
 ## trinity
 Ten slotte had je nog de opdracht trinity. Dit was een video die je kon bekijken op een s3 bucket. Toen we achteraf de video via diverse tools hadden bekeken op verborgen materiaal in het beeld besloten we naar het geluid te kijken. Uiteindelijk kwamen we zo een verborgen bericht tegen.
 
-<img src="./src/trinity.png" alt="verborgen bericht in geluid" width="750">
+<img src="https://raw.githubusercontent.com/yomaxx/I-talent-SNB/main/docs/05-selectie-activiteiten/src/trinity.png" alt="verborgen bericht in geluid" width="750">
 
 Na verder onderzoeken bleek de vic een hint naar het algoritme dat gebruikt was om de flag te encrypteren. Met die kennis konden we dit terug omdraaien en de flag verkrijgen.
 
