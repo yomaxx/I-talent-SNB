@@ -1,18 +1,49 @@
 # projectweek
+13/02/2023 - 17/02/2023 - Hogeschool PXL
+
+## inhoud
+De projectweek was een week aan verschillende activiteiten en seminaries om jezelf en je team gennoten beter te leren kennen. Dit hielp dan om de samenwerking te verbeteren.
 
 # POP-sessies
 Voor de opleiding hebben we deelgenomen aan 3 verschillende POP-sessies. Deze waren bedoeld om jezelf en je groep beter te leren kennen om zo de samenwerking beter te laten verlopen.
 
 ## POPping
-28/02
+28/02/2023 - Hogeschool PXL
+
+### inhoud
+Verschillende sterke en zwakke punten van je collega's leren kennen. Ook leren omgaan met geven en ontvangen van feedback. Hierna hebben we een persoonlijk ontwikkelingsplan uitgewerkt.
 
 ## Brein aan het werk! Niet storen! 
-28/02
+28/02/2023 - Hogeschool PXL
+
+### inhoud
+Tijders deze sessie werd er onderzocht hoe afhankelijk we waren van onze smartphone met behulp van een experiment. Hier hebben we dan interesante gegevens over ons smartphone gebruik uit kunnen halen.
 
 ## My team and I
-11/10
+11/10/2023 - Hogeschool PXL
+
+### inhoud
+Dit was een sessie over hoe de dynamiek in een team alles kan beinvloeden. Hoe je het beste met problemen omgaat en met elkaar communiceert. We kregen een aantal oefeningen om te kijken wie wat het belangrijkste vondt binnen een het team.
 
 # studentenvereniging
+09/2021 - huidig
+Zelf aangebracht.
+
+## inhoud
+Mijn groei en ervaring was verrijkt door mijn betrokkenheid bij studentenvereniging Hexion. Dit is de studentenvereniging van de DIGITAL-afdeling van PXL. Ik ben al drie jaar lid van deze vereniging, een periode die gekenmerkt wordt door groei, leiderschap en vriendschap. Van deze 3 jaar ben ik 2 jaar leidend lid geweest, eerst als schachtenmeester en dit jaar als vice-preaes.
+
+In mijn tweede jaar bij Hexion nam ik de rol van “schachtenmeester” op me. Deze positie gaf me de verantwoordelijkheid om nieuwe leden te ondersteunen en te begeleiden. Dit niet alleen binnen het studentenleven maar ook binnen de studie.Aanmoedigen om naar de lessen te gaan en ondersteunen bij vragen zaten hier allemaal bij. verder was ik ook verantwoordelijk voor het organiseren van de doop.
+
+Na mijn tijd als schachtenmeester, heb ik een jaar doorgebracht als “vice-praeses”. In deze rol ondersteunde ik de “praeses” met de dagelijkse taken en hielp ik andere “praesidia” leden waar nodig. Hier had ik de kans om kennis en ervaring op te doen over het leiden van een groep.
+
+Binnen Hexion was ik ook betrokken bij het organiseren van feestjes en andere studentikoze activiteiten. Deze evenementen waren niet alleen een kans voor leden om te ontspannen en plezier te hebben, maar ook om banden te smeden en een sterk gevoel van samenhorendheid te creëren. Ik hielp mee aan de planning, coördinatie en zorgde ervoor dat alles soepel verliep.
+
+Maar onze inspanningen gingen verder dan alleen plezier. We organiseerden ook een “blokbar” tijdens elke examenperiode. Dit was een ruimte waar studenten samen konden studeren en elkaar hulp konden aanbieden. Dit was ook niet alleen beschikbaar voor onze leden maar werd ook gepromoot op verschillende plaatsen als een open studie plek.
+
+Als lid van een studentenvereniging wordt er soms ook verwacht dat je helpt op de verschillende infomomenten die de PXL aanbiedt.
+## reflectieverslag
+
+#### vervangen
 Tijdens mijn opleiding ben ik 3 jaar lid geweest van studentenvereniging Hexion van de DIGITAL afdeling. Hiervan was ik 1 jaar "schachtenmeester" en was het mijn taak de nieuwe leden te ondersteunen en begeleiden. Hierna heb ik nog 1 jaar als "vice-praeses" doorgebracht, hier ondersteunde ik de "praeses" met de dagelijkse taken en andere "praesidia" leden waar nodig.
 Hier heb ik geholpen met het organiseren van feestjes en andere studentikoze activiteiten. Maar daarbuiten hadden we ook een blokbar elke examenperiode.  
 Hier konden studenten dan samen studeren en elkaar hulp aanbieden.  

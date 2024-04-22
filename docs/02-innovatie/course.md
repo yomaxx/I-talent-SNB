@@ -1,5 +1,6 @@
 # innovatieroute
-Voor de innovatieroute heb ik gekozen voor `Security & Cloud`. Dit leek me de meest interesante voor mijn opleiding.
+28/09/2023 - 13/11/2023 - Hogeschool PXL
+Voor de innovatieroute heb ik gekozen voor `Security & Cloud`. Dit leek me de meest interesante voor mijn opleiding. Hiervoor heb ik 3 seminaries gevolgd die hieronder beschreven staan.
 
 ## Unleash Your Cybersecurity Potential: From Zero Trust to SASE Mastery
 Exclusive Networks / Fortinet
