@@ -1,5 +1,5 @@
 # Quality Engineering
-<img src="./src/Capgemini_Logo.png" alt="logo capgemini" width="500"/>  
+<img src="https://yomaxx.github.io/I-talent-SNB/docs/01-Seminaries/src/Capgemini_Logo.png" alt="logo capgemini" width="500"/>  
 
 **Gegeven door**: Capgemini  
 **Datum**: 7/03/2023  
@@ -9,7 +9,7 @@ Het seminarie van Capgemini ging over quality engineering binnen de SDLC (Softwa
 
 
 # Forensics
-<img src="./src/Logo-pwc.png" alt="logo PWC" width="500"/>  
+<img rc="https://yomaxx.github.io/I-talent-SNB/docs/01-Seminaries/src/Logo-pwc.png" alt="logo PWC" width="500"/>  
 
 **Gegeven door**: PWC  
 **Datum**: 21/03/2023  
@@ -20,7 +20,7 @@ Door middel van een VM die kwam met een aantal tools voor forensics toe doen. Hi
 
 
 # Multi-cloud
-<img src="./src/gluo_logo.png" alt="logo gluo" width="500"/>  
+<img rc="https://yomaxx.github.io/I-talent-SNB/docs/01-Seminaries/src/gluo_logo.png" alt="logo gluo" width="500"/>  
 
 **Gegeven door**: Gluo  
 **Datum**: 18/04/2023  
@@ -30,7 +30,7 @@ Door middel van een VM die kwam met een aantal tools voor forensics toe doen. Hi
 Dit seminarie stond in teken van het de verschillende manieren om een applicatie op te zetten en de infrastructuur te beheren. Van het manueel opzetten van een docker iamage tot het automatisch deployen van een multi-cloud setup. Zo konden we de lessen automatisatie eens in de praktijk zien.
 
 # Meraki (Cloud) + converged (Cloud + on prem)
-<img src="./src/logo_cisco.png" alt="logo cisco" width="500"/>  
+<img rc="https://yomaxx.github.io/I-talent-SNB/docs/01-Seminaries/src/logo_cisco.png" alt="logo cisco" width="500"/>  
 
 **Gegeven door**: Cisco  
 **Datum**: 08/11/2023  
@@ -41,7 +41,7 @@ Hier kregen we eerst wat uitleg over het Meraki platform van cisco waar we daarn
 
 
 # Cyber security operations in the real world
-<img src="./src/logo_secwise.png" alt="logo secwise" width="500"/>  
+<img rc="https://yomaxx.github.io/I-talent-SNB/docs/01-Seminaries/src/logo_secwise.png" alt="logo secwise" width="500"/>  
 
 **Gegeven door**: Secwise  
 **Datum**: 06/12/2023  
@@ -52,7 +52,7 @@ Hier hebben we wat `blue team` uitleg en een blik in de wereld van incident resp
 
 
 # SAP: AI en process automation
-<img src="./src/logo_thevaluechain.png" alt="logo the Value Chain" width="500"/>  
+<img rc="https://yomaxx.github.io/I-talent-SNB/docs/01-Seminaries/src/logo_thevaluechain.png" alt="logo the Value Chain" width="500"/>  
 
 **Gegeven door**: TheValueChain  
 **Datum**: 13/12/2023  
@@ -63,7 +63,7 @@ Seminarie over SAP en process automation. SAP is een resource planning softwarep
 
 
 # Digital forensics
-<img src="./src/logo_politie.jpg" alt="logo the Value Chain" width="500"/>  
+<img rc="https://yomaxx.github.io/I-talent-SNB/docs/01-Seminaries/src/logo_politie.jpg" alt="logo the Value Chain" width="500"/>  
 
 **Gegeven door**: Politie  
 **Datum**: 10/01/2024  
