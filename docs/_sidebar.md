@@ -4,4 +4,5 @@
 * [02 - inovatie](02-innovatie/course.md)
 * [03 - persoonlijke ontwikkeling](03-persoonlijke-ontwikkeling/course.md)
 * [04 - student engagement](04-student-engagement/course.md)
-* [05 - reflectie](05-reflectie/course.md)
+* [05 - selectie activiteiten](05-selectie-activiteiten/course.md)
+* [06 - reflectie](06-reflectie/course.md)
